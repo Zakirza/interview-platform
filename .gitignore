@@ -1,0 +1,12 @@
+.next/
+node_modules/
+.pnpm-store/
+dist/
+coverage/
+.env
+.env.local
+.env.*.local
+*.log
+tsconfig.tsbuildinfo
+supabase/.temp/
+*pdf
